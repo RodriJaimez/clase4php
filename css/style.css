@@ -1,0 +1,44 @@
+body {
+	background-color: #dd1021;
+	border-color: #ffc300;
+}
+
+#imagen-logo{
+	width: 17%;
+	height: 10%;
+	margin-left: 50%;
+	border-color: #ffc300;
+	border-style: double;
+	border-width: 15px;
+}
+
+#hamburguesa{
+	width: 17%;
+	height: 10%;
+	margin-left: 50%;
+	border-color: #ffc300;
+	border-style: dotted;
+}
+
+
+td{
+	font-size: 250%;
+	color: #ffc300;
+}
+
+tr{
+	margin-left: 50%;
+}
+h1{
+	margin-left: 50%;
+	font-size: 450%
+}
+
+h1{
+	color: #ffc300;
+}
+
+footer{
+	margin-left: 50%;
+	font-size: 250%;
+}
